@@ -1,0 +1,30 @@
+name: Баг-репорт
+description: Что-то сломалось или работает не так
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Что произошло
+      description: Опиши проблему — что ожидал и что получил.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Как повторить
+      value: |
+        1.
+        2.
+        3.
+  - type: input
+    id: env
+    attributes:
+      label: Окружение
+      description: Minecraft / загрузчик / версия мода / ОС
+      placeholder: 1.16.5 / Fabric / modlex-core-0.1.0 / Windows 11
+  - type: textarea
+    id: logs
+    attributes:
+      label: Логи (по желанию)
+      render: shell
