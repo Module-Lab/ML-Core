@@ -1,6 +1,8 @@
 {
   "rootPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpga5jFFcLRqdQ1Kx4ZTDH0jGjvgpYpk6BjVcwoBro01EnvkIrnUonqNJPlB2MeXEjeczzX9EK69vL0RsjKqZPQ==",
-  "authors": [],
+  "authors": [
+    { "keyId": "eb2e955ccaeb", "author": "Afterimage Test Author", "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvstBAHyExePsqooq9e6qqe8i17/psm5eVzMg3NWvYaaT/6sV7jvHfxUoobO1S5mlQaAPLdYFJctzS3g/X1KAJQ==", "rootSignature": "" }
+  ],
   "revokedKeyIds": [],
   "revokedHashes": []
 }

@@ -1,5 +1,15 @@
 {
   "schema": 1,
-  "updated": "2026-10-13",
-  "modules": []
+  "updated": "2026-10-15",
+  "modules": [
+    {
+      "id": "afterimage",
+      "name": "Afterimage",
+      "author": "Afterimage Test Author",
+      "version": "1.0.0",
+      "summary": "`tРµСЃС‚РѕРІС‹Р№ РјРѕРґСѓР»СЊ: РїРѕРґРїРёСЃСЊ РµСЃС‚СЊ, РєР»СЋС‡ РЅРµ Р·Р°РІРµСЂС‘РЅ",
+      "path": "modules/afterimage/1.0.0/afterimage-1.0.0.jar",
+      "sha256": "861708c855db7913af6ca749b55d148315fbf54192207e1438f7e3229928b5c3"
+    }
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "afterimage",
+  "version": "1.0.0",
+  "author": "Afterimage-Test-Author",
+  "sha256": "861708c855db7913af6ca749b55d148315fbf54192207e1438f7e3229928b5c3",
+  "sizeBytes": 13507,
+  "signature": "MEUCIQCxBcHX2GjQq//ixirSHsYMF+QwcU/qIznNR7e8+7zwcQIgI8SWCWU+9qboUpQO+UowyBMWQxknPB3kIMzmxAvCCz4=",
+  "keyId": "eb2e955ccaeb",
+  "alg": "ECDSA-P256-SHA256"
+}
